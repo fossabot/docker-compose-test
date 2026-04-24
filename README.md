@@ -1,4 +1,6 @@
 # Docker Compose Test
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSahanWeerasiri%2Fdocker-compose-test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSahanWeerasiri%2Fdocker-compose-test?ref=badge_shield)
+
 
 This repository contains a sample project to demonstrate the usage of Docker Compose with a Python application.
 
@@ -72,3 +74,7 @@ docker-compose down
 
 - Docker documentation
 - Python community
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSahanWeerasiri%2Fdocker-compose-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSahanWeerasiri%2Fdocker-compose-test?ref=badge_large)
